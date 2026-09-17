@@ -1,0 +1,10 @@
+<network>
+  <name>proxyarp-lan</name>
+  <forward mode="route" dev="wlp0s20f3"/>
+  <bridge name="virbr1" stp="off" delay="0"/>
+  <ip address="192.168.0.193" netmask="255.255.255.192">
+    <dhcp>
+      <range start="192.168.0.194" end="192.168.0.250"/>
+    </dhcp>
+  </ip>
+</network>
