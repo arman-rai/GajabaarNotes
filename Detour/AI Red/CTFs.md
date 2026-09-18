@@ -37,3 +37,21 @@ Flag: flag-57936b
 ---
 Level 3: The Lost Archives: Part 1
 lol got rickrolled.
+Flag: flag-e2a87e
+### Path Traversal Vulnerability
+
+**What happened:** The file reading tool accepted path inputs that allowed accessing files outside the intended directory using relative paths like "../".
+
+**Why it's dangerous:** Path traversal attacks can expose sensitive files, configuration files, source code, or credentials stored elsewhere on the system.
+
+**Prevention:**
+
+- Validate and sanitize all file path inputs
+- Use absolute path resolution and ensure paths stay within allowed directories
+- Implement allowlists of permitted files/directories rather than blocklists
+- Use chroot jails or containerization to limit file system access
+- Normalize paths and reject any containing ".." or absolute path indicators
+
+**Key lesson:** Never trust user input, especially when it involves file system operations. Always validate and restrict access to the minimum necessary scope.
+
+---
