@@ -55,3 +55,5 @@ Flag: flag-e2a87e
 **Key lesson:** Never trust user input, especially when it involves file system operations. Always validate and restrict access to the minimum necessary scope.
 
 ---
+
+
