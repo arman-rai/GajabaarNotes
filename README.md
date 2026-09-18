@@ -1,5 +1,5 @@
 # GajabaarNotes
-This contains my notes for Gajabaar, testing using obsidian git. 
+This contains my notes for Gajabaar, using obsidian git. 
 You can also reference this: https://www.youtube.com/watch?v=ImrLbomFYA0
 
 My setup and rice:
