@@ -33,4 +33,5 @@ Flag: flag-57936b
 - Design tools with built-in authorization checks independent of agent instructions
 
 **Key lesson:** If security depends on the agent "following instructions," it's not secure. Enforce security at the system level.
+
 ---
