@@ -56,4 +56,23 @@ Flag: flag-e2a87e
 
 ---
 
+Level 5: Bad Robot
+Flag: flag-4c1cf6
+### Code Injection via eval()
+
+**What happened:** The calculator tool used eval() to execute user input as Python code, allowing arbitrary code execution including file system access.
+
+**Why it's dangerous:** Code injection vulnerabilities allow attackers to execute arbitrary commands, access sensitive data, modify system behavior, or establish persistent access.
+
+**Prevention:**
+
+- Never use eval(), exec(), or similar functions with user input
+- Use safe expression evaluators or mathematical parsers instead
+- Validate and sanitize all inputs according to strict schemas
+- Run code in sandboxed environments with restricted permissions
+- Use allowlists of permitted operations rather than trying to block dangerous ones
+
+**Key lesson:** eval() is dangerous. If you need dynamic code execution, use safer alternatives or run in heavily restricted sandboxes.
+
+---
 
