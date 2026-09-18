@@ -10,7 +10,7 @@ My setup and rice:
 
 ---
 To Dos:
-- [ ] https://missing.csail.mit.edu/2026/course-shell/
+- [x] https://missing.csail.mit.edu/2026/course-shell/
 - [ ] https://missing.csail.mit.edu/2020/command-line/
 - [ ] https://missing.csail.mit.edu/2026/development-environment/
 - [ ] https://missing.csail.mit.edu/2020/version-control/
