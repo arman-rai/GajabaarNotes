@@ -35,3 +35,5 @@ Flag: flag-57936b
 **Key lesson:** If security depends on the agent "following instructions," it's not secure. Enforce security at the system level.
 
 ---
+Level 3: The Lost Archives: Part 1
+lol got rickrolled.
