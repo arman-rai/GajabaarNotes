@@ -202,7 +202,3 @@ Terminal (GUI) → Shell (bash) → runs Programs (via $PATH)
 ```
 
 ---
-
-That completes the set for the lectures you've sent — you now have: **shell fundamentals → scripting/command-line env → Vim → port forwarding/pivoting**. 
-
-If you keep going through the course, the natural next ones for your CPTS workflow would be the **Data Wrangling** lecture (grep/sed/awk/regex at full power) and **Debugging/Profiling** — say the word and paste the content.
