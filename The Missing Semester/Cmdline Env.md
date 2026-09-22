@@ -1,5 +1,4 @@
-
-# Shell Scripting Cheatsheet
+# Shell Scripting Cheatsheet (AI)
 *Condensed from MIT Missing Semester — Command-line Environment*
 
 ---
