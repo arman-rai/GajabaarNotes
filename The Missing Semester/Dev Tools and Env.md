@@ -1,4 +1,4 @@
-# Vim & Dev Environment Cheatsheet
+# Vim & Dev Environment Cheatsheet (AI)
 *Condensed from MIT Missing Semester — Development Environment and Tools*
 
 ---
