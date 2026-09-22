@@ -2,7 +2,7 @@
 # Notes to myself:
 - Try to think about unknown unknowns
 
-# Shell Fundamentals Cheatsheet
+# Shell Fundamentals Cheatsheet (AI)
 *Condensed from MIT Missing Semester — Course Overview + Introduction to the Shell*
 
 ---
