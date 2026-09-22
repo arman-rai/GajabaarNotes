@@ -211,7 +211,7 @@ unalias ll                     # remove
 \ls                            # bypass alias once
 ```
 
-⚠️ Aliases **can't take mid-command arguments** — use a function for that.
+ Aliases **can't take mid-command arguments** — use a function for that.
 
 ```bash
 # Handy tools
@@ -224,15 +224,3 @@ command-not-found.com  # how to install anything
 **Dotfiles:** keep them in a git repo, symlink into place with a script → portable, versioned, one-minute setup on any new box.
 
 ---
-
-## 🧠 The 5 Gotchas That Bite Everyone
-
-1. **`foo = bar` fails** — no spaces in assignments
-2. **Single quotes don't expand** — `'$foo'` is literal text
-3. **`if` uses exit codes, not booleans** — `if grep -q ...` not `if [ ... ]` for command checks
-4. **Pipes skip stderr** — errors bypass the pipeline and still print
-5. **Backgrounded jobs die with the terminal** — use `nohup`, `disown`, or tmux
-
----
-
-Want me to add a "pentest-flavored" version — quick patterns like loops over targets, output capture in scripts, or trap-based cleanup for temp files?
