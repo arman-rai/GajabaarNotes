@@ -1,4 +1,4 @@
-# Git Cheatsheet
+# Git Cheatsheet (AI)
 *Condensed from MIT Missing Semester — Version Control*
 
 ---
