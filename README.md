@@ -1,9 +1,7 @@
 # GajabaarNotes
-This contains my notes for Gajabaar, using obsidian git. 
+This contains my notes for Gajabaar, using [Obsidian Git](https://www.youtube.com/watch?v=ImrLbomFYA0) 
 
-You can also reference this: https://www.youtube.com/watch?v=ImrLbomFYA0
-
-My setup and rice:
+#### My setup and rice:
 - Obsidian [transparent theme](https://community.obsidian.md/themes/transparent)
 - Obsidian [git](https://community.obsidian.md/plugins/obsidian-git) with auto commit and some configs.
 - Kali Linux with [rice](https://github.com/StrinGhost/KaliGhost)+ [Parrot HTB edition](https://deb.parrot.sh/parrot/iso/7.3/Parrot-spin-htb-7.3_amd64.iso)
