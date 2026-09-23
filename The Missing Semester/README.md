@@ -1,7 +1,10 @@
-https://missing.csail.mit.edu/
+`https://missing.csail.mit.edu/`
 
 Contents:
 
-[[Cmdline Env]]
-[[Dev Tools and Env]]
-[]
+- [[Cmdline Env]]
+- [[Dev Tools and Env]]
+- [[The Shell]]
+- [[Version Control with Git]]
+
+---
