@@ -13,3 +13,5 @@ To Dos:
 - [x] https://missing.csail.mit.edu/2020/command-line/
 - [x] https://missing.csail.mit.edu/2026/development-environment/
 - [x] https://missing.csail.mit.edu/2020/version-control/
+- [ ] [Python on Exercism](https://exercism.org/tracks/python)
+- [ ] [The Cryptopals Crypto Challenges](https://cryptopals.com/)
